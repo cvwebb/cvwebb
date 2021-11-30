@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on the "Bolt" design systems at Nationwide.
+- 🔭 I’m currently working on the "Bolt" design system at Nationwide.
 - 🌱 I’m currently learning Angular.
 - 👯 I’m looking to collaborate on small projects/tools that solve singular issues. 
 - 💬 Ask me about my background in design or check out my [portfolio](http://chrisvwebb.com/portfolio).
