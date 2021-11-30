@@ -1,10 +1,9 @@
 ### Hi there 👋
+My GitHub page is growing 🍄. As I work to add more of my projects here, feel free to check out my latest work on my website [chrisvwebb.com](http://chrisvwebb.com).
 
 <!--
 **cvwebb/cvwebb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on the "Bolt" design system at Nationwide.
 - 🌱 I’m currently learning Angular.
