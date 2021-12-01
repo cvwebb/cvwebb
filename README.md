@@ -13,4 +13,4 @@ My GitHub page is growing 🍄. As I work to add more of my projects here, feel 
 - ⚡ Fun fact: I love board games. I've served 12 years in the Ohio Army National Guard. I design t-shirts.
 
 ### Toolbox
-[uses.md](/cvwebb/blob/main/USES.md)
+[uses.md](/USES.md)
