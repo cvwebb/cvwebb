@@ -9,10 +9,10 @@
 	* [HTML Boilerplate](https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate)
 	* [JSON5 Syntax](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5)
 	* [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+	* [SynthWave '84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)
 * [iTerm 2](https://iterm2.com/) - CLI
 	* [GitTab Autocomplete](https://www.macinstruct.com/tutorials/how-to-enable-git-tab-autocomplete-on-your-mac/) - Nice for long, repetitve keywords
 	* [Git Shortcuts & Aliases](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases)
-	* [SynthWave '84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)
 * [Spectacle](https://www.spectacleapp.com/) - Window Management
 * [Sketch](https://www.sketch.com/) - Currently for UI/UX Layout
 * [Figma](https://www.figma.com/) - Moving toward UI/UX Layout
