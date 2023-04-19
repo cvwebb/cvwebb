@@ -13,6 +13,7 @@
 * [iTerm 2](https://iterm2.com/) - CLI
 	* [GitTab Autocomplete](https://www.macinstruct.com/tutorials/how-to-enable-git-tab-autocomplete-on-your-mac/) - Nice for long, repetitve keywords
 	* [Git Shortcuts & Aliases](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases)
+	* [VS Code Shorthand Open in Terminal](https://code.visualstudio.com/docs/setup/mac#:~:text=Launching%20from%20the%20command%20line,code'%20command%20in%20PATH%20command.)
 * [Spectacle](https://www.spectacleapp.com/) - Window Management
 * [Sketch](https://www.sketch.com/) - Currently for UI/UX Layout
 * [Figma](https://www.figma.com/) - Moving toward UI/UX Layout
